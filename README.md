@@ -21,6 +21,7 @@ Note:- I used ubuntu for execution.
 #Procedure
 Task-1
 Install required libraries and modules as mentioned in requirements.txt 
+
 1)Run CNN_CODE.ipynb to know test accuracy and to get pretrained model(digit_classifier_model).
 
 
@@ -37,6 +38,7 @@ Task-3
 1)it will predict number present on image and it will ask correct or incorrect.
     i)if actual label is equal to predict label then we need select correct option and  we need to chooose another image.
     ii)if actual label is not equal to predict label.we need  to select incorrect then it will ask what is actual label.we need to mention actual 		label
+    
 2)Then incorrect predictions will store in incorrect_predictions file.
 
 
@@ -46,7 +48,9 @@ Task-4
 ubuntu terminal :python3 fine_tune.py
 
 2)you will new accuracy after fine tuning.
+
 3)After this rerun streamlit run streamlitapp.py then browse same image which given wrong prediction.
+
 4)Now it will give correct prediction due to fine tuning.
 
 
