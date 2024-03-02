@@ -28,6 +28,7 @@ Task-2
 1)Execution of streamlit_app.py :- In this code at 10th line, mention the path at which you have saved the pre trained model.Now execute the code in the terminal using the command:
 
    streamlit run streamlit_app.py
+   
 2)After execution web application will open there it will ask you to browse files
 we need choose image file.
 
@@ -43,6 +44,7 @@ Task-4
 1) Execution of  fine_tune.py :incorrect_predictions file should be present in same directory where fine_tune.py file present.In this code at 91th line, mention the path at which you have saved the train.csv and  at 98th line, mention the path at which you have saved the pre trained model(digit_classifier_model).Now execute the code in the terminal using the command:
 
 ubuntu terminal :python3 fine_tune.py
+
 2)you will new accuracy after fine tuning.
 3)After this rerun streamlit run streamlitapp.py then browse same image which given wrong prediction.
 4)Now it will give correct prediction due to fine tuning.
