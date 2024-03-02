@@ -38,6 +38,7 @@ we need choose image file.
 
 
 Task-3
+
 1)it will predict number present on image and it will ask correct or incorrect.
 
     i)if actual label is equal to predict label then we need select correct option and  we need to chooose another image.
