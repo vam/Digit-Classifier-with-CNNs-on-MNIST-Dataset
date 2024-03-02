@@ -28,6 +28,7 @@ Install required libraries and modules as mentioned in requirements.txt
 
 
 Task-2
+
 1)Execution of streamlit_app.py :- In this code at 10th line, mention the path at which you have saved the pre trained model.Now execute the code in the terminal using the command:
 
    streamlit run streamlit_app.py
