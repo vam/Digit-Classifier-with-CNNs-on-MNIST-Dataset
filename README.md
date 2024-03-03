@@ -1,4 +1,4 @@
-MNIST Image classification model for AI-ML Lab Assignment 1
+
 
 Note:- I used ubuntu for execution.
 
